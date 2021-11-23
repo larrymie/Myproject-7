@@ -81,3 +81,8 @@ $ sudo dnf install php php-opcache php-gd php-curl php-mysqlnd
 
 IMAGE 22 confirmed the installed php as active
 ![22](https://user-images.githubusercontent.com/91284177/142046861-2006141d-b2a8-4981-981a-4a8d703fe71c.png)
+My log in page is ready and I was able to log in accordingly. IMAGE 23 & 24
+
+![23](https://user-images.githubusercontent.com/91284177/143020038-e1746584-0d3d-4046-90cb-e877368f86ce.png)
+
+![24](https://user-images.githubusercontent.com/91284177/143020056-f06cd04a-4b7e-47d1-90bb-12850d79565f.png)
